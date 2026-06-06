@@ -9,7 +9,7 @@ I live in New York City, in the state of New York, in the United States of Ameri
 
 Three of my latest readings:
 
-- *The Bram Stoker Dracula
+- *The Bram Stoker's Dracula
 - *Frankenstein
 - *The Unbearable Lightness of Being
 
@@ -24,4 +24,3 @@ Three of my latest readings:
 The best way to get in touch with me is [on X](https://x.com/laichungleung.).
 
 
-nano README.md
