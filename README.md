@@ -9,7 +9,7 @@ I live in New York City, in the state of New York, in the United States of Ameri
 
 Three of my latest readings:
 
-- *The Bram Stoker's Dracula
+- *Dracula
 - *Frankenstein
 - *The Unbearable Lightness of Being
 
